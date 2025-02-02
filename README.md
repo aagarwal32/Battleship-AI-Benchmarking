@@ -3,9 +3,9 @@
 This project is based on the popular game, [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)). Players call out coordinates to hit or miss a part of a ship. The first player to sink all their opponent’s ships wins. 
 
 A mid-game position for Battleship is displayed below. (Please note that the opponent’s board is at the top, where their ships are not visible, and the player’s board is at the bottom, where their ships are shown. You can check your Hits (H) or Misses (M) on the opponent’s board.)
-
-![battleship_board](https://github.com/user-attachments/assets/b0b626bd-2f63-4e1e-840c-4a424a3be032)
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b0b626bd-2f63-4e1e-840c-4a424a3be032" width="180">
+</p>
 This script allows you to play the game against an AI opponent or simulate any number of games (AI vs AI). The AI algorithms implemented are as follows:
 1. Greedy algorithm
 2. Minimax algorithm with alpha-beta pruning
