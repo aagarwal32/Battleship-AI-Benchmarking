@@ -707,9 +707,10 @@ def play_games():
 
 
 
+# Choose to play or simulate
 
+# option 1:
+#play_games()
 
-play_games()
-
-# Simulate multiple games
-#simulate_multiple_games()
+# option 2:
+simulate_multiple_games()
