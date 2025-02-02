@@ -1,3 +1,7 @@
+## Battleship AI Benchmarking (Quick Overview)
+
+This project is based on the popular game, [Battleship.]https://en.wikipedia.org/wiki/Battleship_(game)
+
 ########################################################
 Arjun Agarwal, Patrick Shugerts, Anxhelo Kambo, Alan Morcus
 ########################################################
